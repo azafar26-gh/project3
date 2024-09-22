@@ -1,4 +1,5 @@
 Flask 
+gunicorn
 azure-storage-blob
 requests 
 numpy 
